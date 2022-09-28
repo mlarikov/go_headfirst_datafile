@@ -1,0 +1,5 @@
+package datafile
+
+func GetStrings() {
+
+}
